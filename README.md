@@ -1,15 +1,12 @@
-# DA_Portfolio
+## DA_Portfolio
+
 This repository is meant to showcase my skills and projects i`ve completed as Data Analyst
+
+### My Projects
+
 [project name](https://github.com/Katilian/DA_Portfolio/blob/main/Notebooks/sql.ipynb)
 My Projects
-Introduction
-This repository is a collection of analysis projects of various subjects in data analysis.
-Subjects Include but are not limited to:
-EDA, Statistical DA, Business Analytics, Supervised and Unsupervised Machine learning, Data Visualization, SQL and Automation.
 
-Each link directs to the jupyter notebook of the project.
-I've also included a download link for each project including its dependencies for running the project locally.
-Projects
 Product Range Analysis  |  Dashboard  |  Download Project
 In this project we perform a product range analysis on an online store invoice dataset.
 We use several data analysis methods such as Machine learning (Association rules), Seasonality analysis, First transaction analysis and hypothesis testing.
