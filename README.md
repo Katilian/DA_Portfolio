@@ -28,7 +28,7 @@ Analysis for selling food products startup. The goal is to investigate user beha
 The goal of the project is to get the current cafes market conditions in LA to attract investors for the new robot-run cafe.
 I look at trends of venues in popular streets of LA, charecteristics of chained and private establishments, seat capacity and more.
 
-
+<!---
 
 <details>
 Business Analytics  |  Download Project
@@ -59,3 +59,4 @@ We use statistical testing to determine how the plans differ from one another on
 
 More to come soon!
 </details>
+--->
