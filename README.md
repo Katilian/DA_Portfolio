@@ -28,35 +28,11 @@ Analysis for selling food products startup. The goal is to investigate user beha
 The goal of the project is to get the current cafes market conditions in LA to attract investors for the new robot-run cafe.
 I look at trends of venues in popular streets of LA, charecteristics of chained and private establishments, seat capacity and more.
 
-<!---
+#### [Business decisionns and AB test](https://github.com/Katilian/DA_Portfolio/blob/main/Notebooks/Business_decisions_AB_tests.ipynb)  
+for a big online store. The goal is to find working hypotheses that may help boost revenue. I am going to prioritize few hypotheses, launch an A/B test, and analyze the results.
 
-<details>
-Business Analytics  |  Download Project
-In this project we perform a cohort analysis on a ticket selling business data and calculate various business metrics such as LTV, CAC, ROI, and ROMI.
-This will help us determine the success of the business as well as investigate which marketing campaign is producing the best return on investment and which ones we should immediately drop.
+#### [Business Analytics](https://github.com/Katilian/DA_Portfolio/blob/main/Notebooks/Business_analytics_project.ipynb)  
+for Yandex.Afisha. The goal is to optimize marketing expenses. I study how people use the product, when they start to buy, how much money each customer brings and when they pay off.
 
-
-
-
-
-AB Test Analysis and Business Decisions  |  Download Project
-In this project we are asked to analyze the results of an A/B test in order to produce business recommendations.
-We prioritize several hypotheses and test them against the results of the AB test, and combined with our explorative analysis we recommend a preferred course of action.
-
-
-Video Games Sales Analysis  |  Download Project
-In this project we analyze the sales of video games of various platforms such as PS, Xbox, Wii and many more.
-We perform an explorative analysis on the dataset and employ data visualization and statistical hypothesis testing to determine the profile of a successful game.
-
-Ride Sharing Frequency Analysis  |  Download Project
-In this project we examine data from taxi and ride-sharing companies.
-We'll determine passenger preferences, popular locales, and the effects of external factors.
-Finally we will perform statistical analysis to determine the effects of weather on ride durations.
-
-Telecom Plan Success Analysis  |  Download Project
-In this project we compare two plans of a telecom company by their monthly revenue and user activity.
-We use statistical testing to determine how the plans differ from one another on a monthly basis and decide which one is worth the marketing team's attention.
-
-More to come soon!
-</details>
---->
+#### [Video Games Sales Analysis](https://github.com/Katilian/DA_Portfolio/blob/main/Notebooks/Video_games_online_sales.ipynb)
+The goal of the project is to identify patterns that determine whether a game succeeds or not. This will allow to spot potential big winners and plan advertising campaigns.
